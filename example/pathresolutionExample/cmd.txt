@@ -1,2 +1,2 @@
-Use the below commad to test
+Use the below command to test
 ./unitTest.py -f example/pathresolutionExample/normalize.test -c example/pathresolutionExample/normalize -v "Path normalization test"
